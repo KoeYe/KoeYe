@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Science🤯
 - 💬 Ask me about my courseworks
 - 📫 How to reach me: mn20xy@leeds.ac.uk
-- 😄 Pronouns: 'he'👨‍💻
