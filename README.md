@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Prosperous
-# I am interested in software engineering, machine learning, reinforcement learning and federated learning.
-# You can reach me via xiaokang.ye@outlook.com
+-  I am interested in software engineering, machine learning, reinforcement learning and federated learning.
+- You can reach me via xiaokang.ye@outlook.com
 
 <!--
 **ProsperousYe/ProsperousYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
